@@ -24,7 +24,7 @@ MiniMentor, her gün 5 dakika ayırarak kısa bilgi kartları (flashcard) ve qui
 1. Node.js'i yükleyin (https://nodejs.org/)
 2. Projeyi klonlayın:
    ```bash
-   git clone https://github.com/yourusername/minimentor.git
+   git clone https://github.com/volkangulecx/minimentor.git
    cd minimentor
    ```
 3. Bağımlılıkları yükleyin:
@@ -66,6 +66,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICEN
 
 ## İletişim
 
-Proje Sahibi - [@yourusername](https://twitter.com/yourusername)
+Proje Sahibi - [@volkanguleecx](https://instagram.com/volkanguleecx)
 
-Proje Linki: [https://github.com/yourusername/minimentor](https://github.com/yourusername/minimentor) 
+Proje Linki: [https://github.com/volkangulecx/minimentor](https://github.com/volkangulecx/minimentor) 
